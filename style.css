@@ -1,0 +1,29 @@
+/* Definition 1: Custom Background and Global Font [1, 2] */
+body {
+    background-color: #f4f7f6; /* Custom background color [1] */
+    color: #2c3e50; /* Specific font color [2] */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Specific font family [2] */
+    margin: 20px;
+}
+
+/* Definition 2: Header Styling [2] */
+#header-section {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    border-bottom: 3px solid #27ae60; /* Using a trail-running green */
+}
+
+/* Definition 3: Content Section Positioning [2] */
+#content-section {
+    margin: 30px auto;
+    max-width: 800px;
+    line-height: 1.6;
+}
+
+/* Definition 4: Media Section Styling [2] */
+#media-section {
+    background-color: #ecf0f1;
+    padding: 25px;
+    border-radius: 10px;
+}
